@@ -21,3 +21,8 @@ this chart contains three sub-charts:
 3. the third chart shows any text written about time after Steph is kidnapped (chronological events).
 
 [view the chart here](https://html-preview.github.io/?url=https://github.com/mhavos/dorley-stats/blob/main/cumulative_words_against_time.html).
+
+### in-universe time by cumulative word count
+in a sense, this is the inverse of the previous chart. instead of being ordered by in-universe time, words are ordered in the way they are listed in the book. the line shows how portrayed time jumps around over the course of the book.
+
+[view the chart here](https://html-preview.github.io/?url=https://github.com/mhavos/dorley-stats/blob/main/time_against_cumulative_words.html).
