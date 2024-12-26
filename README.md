@@ -1,2 +1,3 @@
 # dorley-stats
-speaker/narrator statistics for the sisters of dorley &lt;https://archiveofourown.org/works/35394595>
+speaker/narrator statistics for _The Sisters of Dorley_ by Alyson Greaves.
+read the story [on ao3](https://archiveofourown.org/works/35394595).
